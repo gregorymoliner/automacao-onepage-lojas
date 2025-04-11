@@ -1,5 +1,5 @@
 # 📊 Automação de Relatórios One Page para Rede de Lojas de Roupas
-![image](https://github.com/user-attachments/assets/dd17470a-dd91-4dfc-9f26-e97e10e3abaf)
+![image](https://github.com/user-attachments/assets/a0433b94-f370-4343-baa1-2ce7db510a82)
 
 ## 🧠 Sobre o Projeto
 
